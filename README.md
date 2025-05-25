@@ -2,6 +2,12 @@
 
 ---
 
+---
+
+![](./resources/lab.jpg)
+
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://https://github.com/ArielFix/DockerComposeLabs)
+
 <!-- omit in toc -->
 # Docker-Compose Lab
 
